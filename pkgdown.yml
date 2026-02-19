@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles:
+  webtrackR: webtrackR.html
+last_built: 2026-02-19T16:41Z
+urls:
+  reference: https://gesistsa.github.io/webtrackR/reference
+  article: https://gesistsa.github.io/webtrackR/articles
